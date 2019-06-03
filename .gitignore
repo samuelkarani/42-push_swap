@@ -1,0 +1,15 @@
+*.o
+*.a
+*.gch
+*.out
+*.dSYM/
+.nfs*
+.vscode
+.DS_Store
+
+checker
+errors
+push_swap
+in
+out
+tmp.c
